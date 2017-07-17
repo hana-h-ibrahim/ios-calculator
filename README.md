@@ -1,2 +1,2 @@
 # ios-calculator
-iOS Calculator written in swift using the Stanford CS193 course. 
+# iOS Calculator written in swift thanks to the Stanford CS193 course. 
